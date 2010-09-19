@@ -1,2 +1,2 @@
-firefly -v=0.4.3
+firefly -v=1.0.1
 do_postgres
