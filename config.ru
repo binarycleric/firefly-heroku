@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'firefly'
+require 'bundler/setup'
 
 disable :run
 
